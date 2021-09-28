@@ -1,0 +1,23 @@
+
+final appName = 'Petro Pump Manager';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
